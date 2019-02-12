@@ -1,7 +1,7 @@
 # Minimizing CHURN Rate Through  Analysis of Financial Habits   
    
    
-       Subscription Products are often the main source of revenue in the companies that have them. No matter what industry the company is in, they want to minimize the amount of people that unsubscribe aka churn.
+Subscription Products are often the main source of revenue in the companies that have them. No matter what industry the company is in, they want to minimize the amount of people that unsubscribe also known as Churn.
     
     We need to identify the patterns that led to churn.
     

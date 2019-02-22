@@ -11,4 +11,4 @@ Subscription Products are often the main source of revenue in the companies that
     
     We want to increase profits and keep the customers engaged, be it by reminding them of the benefits they are getting of by builiding new products/features that may appeal to users. 
     
-    Because this is a finance tracking product, we have access to customer finances as well as how they leverage the product to handle those finances. Beacuse financial data can often be unreliable and delayed, we will stick to product related data in this project plus this type of data is more indicative of what type of features customers want because it is product related.  
+    Because this is a finance tracking product, we have access to customer finances as well as how they leverage the product to handle those finances. Beacuse financial data can often be unreliable and delayed, we will stick to product related data in this project plus this type of data is more indicative of what type of features customers want because it is product related

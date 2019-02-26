@@ -3,7 +3,7 @@
    
 Subscription Products are often the main source of revenue in the companies that have them. No matter what industry the company is in, they want to minimize the amount of people that unsubscribe also known as Churn.
     
-    We need to identify the patterns that led to churn
+    We need to identify the patterns that led to churnc
     
     Target of our model is everyone who has subcribed to our subscription product. The product we are working with can provide the customer with a lot of value even if they are yet to realize.
     
